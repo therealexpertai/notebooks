@@ -16,7 +16,7 @@ jupyter notebook
 | [`Play with NL API`](nlapi/play_with_expertai_nlapi.ipynb) | step by step overview of Natural Languare API.
 
 
-We appreciate your contribution to this repo, so don't hesitate to submit your changes via pull request to this repository for bug fixing or for adding a new notebook as well! 
+We appreciate your contribution to this repo, so don't hesitate to submit your changes via pull request  for bug fixing or for adding a new notebook as well! 
 
 ```bash
 pull request https://github.com/therealexpertai/notebooks
