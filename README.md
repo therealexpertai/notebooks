@@ -13,7 +13,9 @@ jupyter notebook
 
 ## Available Notebooks
 
-| [`Play with NL API`](nlapi/play_with_expertai_nlapi.ipynb) | step by step overview of Natural Languare API.
+| [`Play with NL API (v2 - current)`](nlapi/play_with_expertai_nlapi_v2.ipynb) | step by step overview of Natural Languare API (current release) :boom:
+| [`Play with NL API (v1)`](nlapi/play_with_expertai_nlapi_v1.ipynb) | step by step overview of Natural Languare API (version v1).
+
 
 
 We appreciate your contribution to this repo, so don't hesitate to submit your changes via pull request  for bug fixing or for adding a new notebook as well! 
