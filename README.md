@@ -12,9 +12,10 @@ jupyter notebook
 ```
 
 ## Available Notebooks
-
-| [`Play with NL API (v2 - current)`](nlapi/play_with_expertai_nlapi_v2.ipynb) | :boom: version v2: step by step overview of Natural Languare API|
-| [`Play with NL API (v1)`](nlapi/play_with_expertai_nlapi_v1.ipynb) | step by step overview of Natural Languare API (version v1).|
+| Notebook | Description |
+| -------- | --- |
+| [`play_with_expertai_nlapi_v2`](nlapi/play_with_expertai_nlapi_v2.ipynb) | :boom: API v2 :boom:: step by step overview of Natural Languare API v2 - nlapi-python 2.0.1: syntactic analysis, main elements, classification with IPTC and GeoTax, sentiment, relations |
+| [`play_with_expertai_nlapi_v1`](nlapi/play_with_expertai_nlapi_v1.ipynb) | step by step overview of Natural Languare API v1 - nlapi-python 1.2.5: syntactic analysis, main elements, classification with IPTC |
 
 
 
