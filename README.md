@@ -14,6 +14,7 @@ jupyter notebook
 ## Available Notebooks
 
 | [`Play with NL API (v2 - current)`](nlapi/play_with_expertai_nlapi_v2.ipynb) | step by step overview of Natural Languare API (current release) :boom:
+
 | [`Play with NL API (v1)`](nlapi/play_with_expertai_nlapi_v1.ipynb) | step by step overview of Natural Languare API (version v1).
 
 
