@@ -17,6 +17,8 @@ jupyter notebook
 | [`sentiment_analysis_nlapi_v2`](nlapi/masterclass/sentiment_analysis_nlapi_v2.ipynb) | :boom: API v2 :boom:: sentiment analysis applied to the movies review dataset - nlapi-python 2.1.3 - sentiment |
 | [`play_with_expertai_nlapi_v2`](nlapi/play_with_expertai_nlapi_v2.ipynb) | :boom: API v2 :boom:: step by step overview of Natural Language API v2 - nlapi-python 2.1.3: syntactic analysis, main elements, classification with IPTC and GeoTax, sentiment, relations |
 | [`play_with_expertai_nlapi_v1`](nlapi/play_with_expertai_nlapi_v1.ipynb) | step by step overview of Natural Language API v1 - nlapi-python 1.2.5: syntactic analysis, main elements, classification with IPTC |
+| [`pii_detection_en_nlapi.ipynb`](nlapi/PII/pii_detection_en_nlapi.ipynb) | :boom: NEW API v2 :boom::step by step overview of Personally Identifiable Information (PII) detection: the Personal Identifiable Informtion (PII) detector of the Natural Language API extract personal information such as people names, dates, addresses, telephone numbers, etc. that could be considered "sensitive" |
+| [`pii_detection_it_nlapi.ipynb`](nlapi/PII/pii_detection_it_nlapi.ipynb) | :boom: NEW API v2 :boom::step by step overview of Personally Identifiable Information (PII) detection: the Personal Identifiable Informtion (PII) detector of the Natural Language API extract personal information such as people names, dates, addresses, telephone numbers, etc. that could be considered "sensitive" |
 
 
 
